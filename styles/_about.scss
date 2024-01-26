@@ -1,0 +1,15 @@
+.about{
+    &__container{
+
+    }
+    &__data{
+        text-align: center;
+    }
+    &__description{
+        margin: 40px;
+    }
+    &__img{
+        width: 280px;
+        justify-self: center;
+    }
+}
